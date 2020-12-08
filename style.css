@@ -1,0 +1,32 @@
+.avatar {
+    border-radius: 50%;
+    height: 100px;
+    float:right;
+}
+
+.astronaut {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    background-color: ghostwhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(https://i.pinimg.com/originals/33/11/92/3311924db62ceef62a4a7ee87017280f.jpg);
+    
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: ghostwhite;
+    text-align: center;
+}
